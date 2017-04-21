@@ -1,4 +1,6 @@
 # Data-Management-Modules-RDAP
+## Amy Hodge group
+
 This repo will be used during the Friendly Intro to GitHub at RDAP 2017 workshop to collect Data Management Modules. You can follow along with my presentation [here](https://docs.google.com/presentation/d/1TrFqki9hXt0Aw9YcSACDWdVif2RI237hGkTdypxf3kI/edit?usp=sharing).
 
 Welome to the Small Group Work Session!
